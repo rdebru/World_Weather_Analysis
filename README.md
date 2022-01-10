@@ -5,10 +5,10 @@
 	* Latitude and longitude, 
 	* Maximum temperature
 	* Percent humidity
-* Percent cloudiness
-* City Name
-* Country 
-* Wind speed
+	* Percent cloudiness
+	* City Name
+	* Country 
+	* Wind speed
 	* Current Weather description
 
 * Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
